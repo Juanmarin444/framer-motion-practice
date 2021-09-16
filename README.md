@@ -1,6 +1,3 @@
 # Framer motion practice
 
-This purpose is to learn more about framer-motion.
-
-
-
+This project's purpose is to help me learn more about framer-motion.
